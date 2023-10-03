@@ -106,7 +106,7 @@ A smartphone-based visualizer of physical phenomena. The main idea: conducting l
 ### Briefing
 My coursework project in the 2nd semester. A full-fledged client-server system for evaluating student performance in any discipline through tests and answers to the instructor's questions. The main idea is that the evaluation and reporting system is completely automatic, developed using Machine Learning (Artificial Intelligence).
 
-[GitHub Repository Client](https://github.com/kharisovilyas/Briefing)
+[GitHub Repository Client](https://github.com/kharisovilyas/Briefing1)
 
 [GitHub Repository Server](https://github.com/kharisovilyas/BriefingServer)
 
