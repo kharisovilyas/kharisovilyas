@@ -50,7 +50,7 @@ Aspiring Android Developer from Russia, St. Petersburg.
 ### 🗑️ Databases:
 <div id="databases">
     <img width="48" style="margin-left: 10px;" title="Firebase" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-    <img width="48" style="margin-left: 10px;" title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="PostgrSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
 ### 💿 Software:
