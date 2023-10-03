@@ -101,16 +101,16 @@ Aspiring Android Developer from Russia, St. Petersburg.
 ### Visual Physics
 A smartphone-based visualizer of physical phenomena. The main idea: conducting lab work on your smartphone, connecting with the instructor, lectures, and practicals. I presented this project at the All-Russian Mobile Developers Competition "IT School Chooses the Strongest."
 
-[GitHub Repository](https://github.com/kharisovilyas/Visual-Physics-Pro)
+[Visual Physics](https://github.com/kharisovilyas/Visual-Physics-Pro)
 
 ### Briefing
 My coursework project in the 2nd semester. A full-fledged client-server system for evaluating student performance in any discipline through tests and answers to the instructor's questions. The main idea is that the evaluation and reporting system is completely automatic, developed using Machine Learning (Artificial Intelligence).
 
-[GitHub Repository Client](https://github.com/kharisovilyas/Briefing1)
+[Briefing Client](https://github.com/kharisovilyas/Briefing1)
 
-[GitHub Repository Server](https://github.com/kharisovilyas/BriefingServer)
+[Briefing Server](https://github.com/kharisovilyas/BriefingServer)
 
 ### Pipe Burst
 A desktop application for visualizing pipe bursts and localizing the rupture with the minimum distance for sensor placement. I presented this project at the international TechnoProm forum. The development is innovative because there is no software on the market that calculates the minimum distance for placing sensors to localize a pipe burst with any fluid.
 
-[GitHub Repository](https://github.com/kharisovilyas/PipeBurst)
+[Pipe Burst](https://github.com/kharisovilyas/PipeBurst)
