@@ -68,6 +68,13 @@ Aspiring Android Developer from Russia, St. Petersburg.
     <img width="48" style="margin-left: 10px;" title="Adobe Photoshop" alt="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
 
+### 🖌️ DevOps:
+<div id="design">
+    <img width="48" style="margin-left: 10px;" title="Figma" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Adobe Illustrator" alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Adobe Photoshop" alt="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+</div>
+
 ### ◻️ Other:
 <div id="design">
     <img width="48" style="margin-left: 10px;" title="Unity" alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
