@@ -95,13 +95,21 @@ Aspiring Android Developer from Russia, St. Petersburg.
 
 ---
 
-###About my Projects
+## 🔗 About My Projects:
 
-###Visual Physics
-Визуализатор физический явлений в смартфоне. Главная идея: лабораторные работы в смартфоне, связь с преподавателем, лекции и практика. С этим проектом я выступал на всероссийском конкурсе мобильных разработчиков IT школа Выбирает Сильнейших.
+### Visual Physics
+A smartphone-based visualizer of physical phenomena. The main idea: conducting lab work on your smartphone, connecting with the instructor, lectures, and practicals. I presented this project at the All-Russian Mobile Developers Competition "IT School Chooses the Strongest."
 
-###Briefing
-Мой курсовой проект во 2 семестре. Полноценная клиент-серверная система оценивания успеваемости студентов по любым дисциплинам в виде тестов и ответов на вопросы преподавателя. Главная идея в том, что система оценивания и составления отчётов полностью автоматическая, написанная с использованием Machine learning (Искусственный интеллект).
+[GitHub Repository](https://github.com/kharisovilyas/Visual-Physics-Pro)
 
-###Pipe Burst
-desktop приложение для визуализации разрыва трубопровода и локализации этого прорыва при минимальном расстоянии для расстановки датчиков. Выступал с этим проектом на международном форуме Технопром. Разработка инновационная, потому что на рынке нету такого софта, который рассчитывал бы минимальное расстояние расстановки датчиков для локализации прорыва трубопровода с любым флюидом.
+### Briefing
+My coursework project in the 2nd semester. A full-fledged client-server system for evaluating student performance in any discipline through tests and answers to the instructor's questions. The main idea is that the evaluation and reporting system is completely automatic, developed using Machine Learning (Artificial Intelligence).
+
+[GitHub Repository](https://github.com/kharisovilyas/Briefing)
+
+[GitHub Repository](https://github.com/kharisovilyas/BriefingServer)
+
+### Pipe Burst
+A desktop application for visualizing pipe bursts and localizing the rupture with the minimum distance for sensor placement. I presented this project at the international TechnoProm forum. The development is innovative because there is no software on the market that calculates the minimum distance for placing sensors to localize a pipe burst with any fluid.
+
+[GitHub Repository](https://github.com/kharisovilyas/PipeBurst)
