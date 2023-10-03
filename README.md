@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <div id="social_badges" style="margin-top: 15px;">
         <a href=https://t.me/ilyas_s_s">
-            <img style="margin: 0 10px 0 10px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="My Spotify">
+            <img style="margin: 0 10px 0 10px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
         </a>
     </div>
     <div style="font-size: 24px; margin-top: 20px;"><b>Hello there...</b></div>
