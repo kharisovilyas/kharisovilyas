@@ -40,8 +40,8 @@ Aspiring Android Developer from Russia, St. Petersburg.
 
 ### 📚 Frameworks and Libraries:
 <div id="frameworks_libraries">
-    <img width="48" style="margin-left: 10px;" title="Svelte" alt="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-    <img width="48" style="margin-left: 10px;" title="Nuxt" alt="Nuxt" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Ktor" alt="Ktor" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+    <img width="48" style="margin-left: 10px;" title="Spring" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Vue" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
     <img width="48" style="margin-left: 10px;" title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img width="48" style="margin-left: 10px;" title="Yii2" alt="Yii2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-plain.svg" />
@@ -71,9 +71,9 @@ Aspiring Android Developer from Russia, St. Petersburg.
 
 ### 🖌️ DevOps:
 <div id="design">
-    <img width="48" style="margin-left: 10px;" title="Figma" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width="48" style="margin-left: 10px;" title="Adobe Illustrator" alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img width="48" style="margin-left: 10px;" title="Adobe Photoshop" alt="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
 ### ◻️ Other:
