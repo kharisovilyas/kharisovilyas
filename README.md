@@ -30,7 +30,7 @@ Aspiring Android Developer from Russia, St. Petersburg.
     <img width="48" style="margin-left: 10px;" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Scala" alt="Scala" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
     <img width="48" style="margin-left: 10px;" title="C" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img width="48" style="margin-left: 10px;" title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="48" style="margin-left: 10px;" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img width="48" style="margin-left: 10px;" title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
