@@ -1,13 +1,6 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/Q61LJj43H48z1FIK4X/giphy-downsized-large.gif" width="200"/>
     <div id="social_badges" style="margin-top: 15px;">
-        <a href="https://open.spotify.com/artist/5CySiPyPSavXUd1RhJ3bUS?si=QaK17OkTQ66cvUpprrNfkQ">
-            <img style="margin: 0 10px 0 10px" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="My Spotify">
-        </a>
-        <a href="https://steamcommunity.com/id/inno_san">
-            <img style="margin: 0 10px 0 10px" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="My Spotify">
-        </a>
-        <a href="https://t.me/inno_san">
+        <a href=https://t.me/ilyas_s_s">
             <img style="margin: 0 10px 0 10px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="My Spotify">
         </a>
     </div>
