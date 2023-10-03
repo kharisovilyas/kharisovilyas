@@ -38,13 +38,12 @@ Aspiring Android Developer from Russia, St. Petersburg.
 
 </div>
 
-### 📚 Frameworks and Libraries:
+### 📚 Frameworks:
 <div id="frameworks_libraries">
     <img width="48" style="margin-left: 10px;" title="Ktor" alt="Ktor" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
     <img width="48" style="margin-left: 10px;" title="Spring" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Vue" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
     <img width="48" style="margin-left: 10px;" title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-    <img width="48" style="margin-left: 10px;" title="Yii2" alt="Yii2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-plain.svg" />
 </div>
 
 ### 🗑️ Databases:
