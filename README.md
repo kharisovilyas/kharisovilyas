@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/9Dk4MhcbdM9kNwNbrI/giphy.gif" width="150"/>
+    <img src="https://media.giphy.com/media/Q61LJj43H48z1FIK4X/giphy-downsized-large.gif" width="150"/>
     <div id="social_badges" style="margin-top: 15px;">
         <a href="https://open.spotify.com/artist/5CySiPyPSavXUd1RhJ3bUS?si=QaK17OkTQ66cvUpprrNfkQ">
             <img style="margin: 0 10px 0 10px" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="My Spotify">
