@@ -4,18 +4,17 @@
             <img style="margin: 0 10px 0 10px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="My Spotify">
         </a>
     </div>
-    <div style="font-size: 24px; margin-top: 20px;"><b>💀 Hello there...</b></div>
+    <div style="font-size: 24px; margin-top: 20px;"><b>Hello there...</b></div>
 </div>
 
 ---
 
-## 👨‍💻 About Me:
-#### Little android and front-end dev from Russia, St. Petersburg.
+Aspiring Android Developer from Russia, St. Petersburg.
 
-- 👨‍🎓 currently studying some things in jetpack compose world;
--  🌱 actively learning android stuff, like Jetpack, KMM, etc.;
-- 🎷 in my free time I'm composing jazz-ish *lofi* beats 👀 and playing games;
-- 📧 tg is your way to reach me!
+    👨‍🎓 Currently a 2nd-year student at SPbGTI diving deep into the world of Jetpack Compose.
+    🌱 Actively exploring various aspects of Android development, including Jetpack, Kotlin Multiplatform Mobile (KMM), and more.
+    🎷 In my free time, I'm crafting jazz-inspired lofi beats 👀 and indulging in some gaming.
+    📧 Feel free to drop me a message on Telegram – it's the quickest way to get in touch!
 
 ---
 
