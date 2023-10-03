@@ -29,7 +29,7 @@ Aspiring Android Developer from Russia, St. Petersburg.
     <img width="48" style="margin-left: 10px;" title="Kotlin" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Scala" alt="Scala" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
-    <img width="48" style="margin-left: 10px;" title="C" alt="C" src="https://icons8.com/icon/40670/c-programming" />
+    <img width="48" style="margin-left: 10px;" title="C" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img width="48" style="margin-left: 10px;" title="C++" alt="C++" src="https://icons8.com/icon/40669/c%2B%2B" />
     <img width="48" style="margin-left: 10px;" title="Python" alt="Python" src="https://icons8.com/icon/13441/python" />
     <img width="48" style="margin-left: 10px;" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
