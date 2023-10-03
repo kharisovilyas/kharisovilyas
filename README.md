@@ -92,11 +92,3 @@ Aspiring Android Developer from Russia, St. Petersburg.
   <img height=200 align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=kharisovilyas&hide=php&langs_count=6&layout=compact&theme=dracula&hide_border=true&border_radius=24" />
 </a>
 </div>
-
----
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kharisovilyas)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## <div align=center style="font-size: 24px; margin: 20px; font-family: 'JetBrains Mono'"><b>👾 See you, space coder... 👾</b></div>
