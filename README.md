@@ -105,9 +105,9 @@ A smartphone-based visualizer of physical phenomena. The main idea: conducting l
 ### Briefing
 My coursework project in the 2nd semester. A full-fledged client-server system for evaluating student performance in any discipline through tests and answers to the instructor's questions. The main idea is that the evaluation and reporting system is completely automatic, developed using Machine Learning (Artificial Intelligence).
 
-[GitHub Repository](https://github.com/kharisovilyas/Briefing)
+[GitHub Repository Client](https://github.com/kharisovilyas/Briefing)
 
-[GitHub Repository](https://github.com/kharisovilyas/BriefingServer)
+[GitHub Repository Server](https://github.com/kharisovilyas/BriefingServer)
 
 ### Pipe Burst
 A desktop application for visualizing pipe bursts and localizing the rupture with the minimum distance for sensor placement. I presented this project at the international TechnoProm forum. The development is innovative because there is no software on the market that calculates the minimum distance for placing sensors to localize a pipe burst with any fluid.
