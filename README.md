@@ -10,11 +10,10 @@
 ---
 
 Aspiring Android Developer from Russia, St. Petersburg.
-
-    👨‍🎓 Currently a 2nd-year student at SPbGTI diving deep into the world of Jetpack Compose.
-    🌱 Actively exploring various aspects of Android development, including Jetpack, Kotlin Multiplatform Mobile (KMM), and more.
-    🎷 In my free time, I'm crafting jazz-inspired lofi beats 👀 and indulging in some gaming.
-    📧 Feel free to drop me a message on Telegram – it's the quickest way to get in touch!
+👨‍🎓 Currently a 2nd-year student at SPbGTI diving deep into the world of Jetpack Compose.
+🌱 Actively exploring various aspects of Android development, including Jetpack, Kotlin Multiplatform Mobile (KMM), and more.
+🎷 In my free time, I'm crafting jazz-inspired lofi beats 👀 and indulging in some gaming.
+📧 Feel free to drop me a message on Telegram – it's the quickest way to get in touch!
 
 ---
 
