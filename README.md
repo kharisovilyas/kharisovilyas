@@ -68,6 +68,26 @@ Aspiring Android Developer from Russia, St. Petersburg.
   <img height=200 align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=kharisovilyas&hide=php&langs_count=6&layout=compact&theme=dracula&hide_border=true&border_radius=24" />
 </a>
 </div>
+<p align="center">
+  <a href="https://github.com/kharisovilyas">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kharisovilyas&theme=transparent"/>
+  </a>
+  <a href="https://github.com/kharisovilyas">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kharisovilyas&hide_border=true&card_width=338&theme=transparent"/>
+  </a>
+  <a href="https://github.com/kharisovilyas">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kharisovilyas&theme=transparent"/>
+  </a>
+  <a href="https://github.com/kharisovilyas">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kharisovilyas&theme=transparent"/>
+  </a>
+  <a href="https://github.com/kharisovilyas">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kharisovilyas&theme=transparent"/>
+  </a>
+   <a href="https://github.com/kharisovilyas">
+    <img src="https://github-profile-trophy.vercel.app/?username=kharisovilyas&theme=onedark&column=4&margin-w=45&margin-h=45"/>
+  </a>
+</p>
 
 ---
 
