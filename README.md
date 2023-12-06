@@ -60,14 +60,6 @@ Aspiring Android Developer from Russia, St. Petersburg.
 ---
 
 ## 🥇 Stats:
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kharisovilyas&theme=dracula&hide_border=true&border_radius=24" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=kharisovilyas&hide=php&langs_count=6&layout=compact&theme=dracula&hide_border=true&border_radius=24" />
-</a>
-</div>
 <p align="center">
   <a href="https://github.com/kharisovilyas">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kharisovilyas&theme=transparent"/>
