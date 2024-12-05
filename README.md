@@ -53,7 +53,8 @@ Aspiring Android Developer from Russia, St. Petersburg.
 <div id="software">
     <img width="48" style="margin-left: 10px;" title="Intellij IDEA" alt="JetBrains" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Visual Studio" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
-    <img width="48" style="margin-left: 10px;" title="QT" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="48" style="margin-left: 10px;" title="QT" alt="QT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="48" style="margin-left: 10px;" title="CLion" alt="Clion" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Android Studio" alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
