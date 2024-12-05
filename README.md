@@ -22,6 +22,7 @@ Aspiring Android Developer from Russia, St. Petersburg.
 ### 💻 Languages:
 <div id="languages">
     <img width="48" style="margin-left: 10px;" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="C" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Kotlin" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Scala" alt="Scala" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
     <img width="48" style="margin-left: 10px;" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -30,8 +31,9 @@ Aspiring Android Developer from Russia, St. Petersburg.
 
 ### 📚 Frameworks:
 <div id="frameworks_libraries">
-    <img width="48" style="margin-left: 10px;" title="Ktor" alt="Ktor" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
     <img width="48" style="margin-left: 10px;" title="Spring" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Spring" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain-wordmark.svg" />
+    <img width="48" style="margin-left: 10px;" title="Ktor" alt="Ktor" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
 </div>
 
 ### 🗑️ Databases:
@@ -40,10 +42,16 @@ Aspiring Android Developer from Russia, St. Petersburg.
     <img width="48" style="margin-left: 10px;" title="MongoDB" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
+###  Assembly System:
+<div id="assembly_system">
+    <img width="48" style="margin-left: 10px;" title="Maven" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="CMake" alt="CMake" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original-wordmark.svg" />
+</div>
+
 ### 💿 Software:
 <div id="software">
     <img width="48" style="margin-left: 10px;" title="Intellij IDEA" alt="JetBrains" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-    <img width="48" style="margin-left: 10px;" title="Visual Studio" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="48" style="margin-left: 10px;" title="Visual Studio" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
     <img width="48" style="margin-left: 10px;" title="QT" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
     <img width="48" style="margin-left: 10px;" title="Android Studio" alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -52,7 +60,14 @@ Aspiring Android Developer from Russia, St. Petersburg.
 ### 🖌️ DevOps:
 <div id="design">
     <img width="48" style="margin-left: 10px;" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Jenkins" alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Tomcat" alt="Tomcat" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</div>
+
+### 🖌 Documentation:
+<div id="design">
+    <img width="48" style="margin-left: 10px;" title="Swagger" alt="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
 </div>
 </div>
 
