@@ -36,16 +36,16 @@ Aspiring Android Developer from Russia, St. Petersburg.
 
 ### 🗑️ Databases:
 <div id="databases">
-    <img width="48" style="margin-left: 10px;" title="Firebase" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
     <img width="48" style="margin-left: 10px;" title="PostgrSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img width="48" style="margin-left: 10px;" title="MongoDB" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
 ### 💿 Software:
 <div id="software">
-    <img width="48" style="margin-left: 10px;" title="Androi Studio" alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Intellij IDEA" alt="JetBrains" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Visual Studio" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    <img width="48" style="margin-left: 10px;" title="JetBrains" alt="JetBrains" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="QT" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="48" style="margin-left: 10px;" title="Android Studio" alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
