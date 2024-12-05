@@ -44,8 +44,9 @@ Aspiring Android Developer from Russia, St. Petersburg.
 
 ###  Assembly System:
 <div id="assembly_system">
-    <img width="48" style="margin-left: 10px;" title="Maven" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
-    <img width="48" style="margin-left: 10px;" title="CMake" alt="CMake" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original-wordmark.svg" />
+    <img width="48" style="margin-left: 10px;" title="Maven" alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Gradle" alt="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="CMake" alt="CMake" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
 </div>
 
 ### 💿 Software:
@@ -65,7 +66,7 @@ Aspiring Android Developer from Russia, St. Petersburg.
     <img width="48" style="margin-left: 10px;" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
-### 🖌 Documentation:
+### Documentation:
 <div id="design">
     <img width="48" style="margin-left: 10px;" title="Swagger" alt="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
 </div>
