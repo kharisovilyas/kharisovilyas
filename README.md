@@ -42,7 +42,7 @@ Aspiring Android Developer from Russia, St. Petersburg.
     <img width="48" style="margin-left: 10px;" title="MongoDB" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
-###  Assembly System:
+### ⚙️ Assembly System:
 <div id="assembly_system">
     <img width="48" style="margin-left: 10px;" title="Maven" alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Gradle" alt="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" />
@@ -67,7 +67,7 @@ Aspiring Android Developer from Russia, St. Petersburg.
     <img width="48" style="margin-left: 10px;" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
-### Documentation:
+### 📎 Documentation:
 <div id="design">
     <img width="48" style="margin-left: 10px;" title="Swagger" alt="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
 </div>
@@ -117,3 +117,8 @@ My coursework project in the 2nd semester. A full-fledged client-server system f
 A desktop application for visualizing pipe bursts and localizing the rupture with the minimum distance for sensor placement. I presented this project at the international TechnoProm forum. The development is innovative because there is no software on the market that calculates the minimum distance for placing sensors to localize a pipe burst with any fluid.
 
 [Pipe Burst](https://github.com/kharisovilyas/PipeBurst)
+
+### United State Complex
+A 
+
+
