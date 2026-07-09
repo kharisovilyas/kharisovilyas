@@ -24,21 +24,17 @@ Scala/Java Developer from Russia, St. Petersburg.
     <img width="48" style="margin-left: 10px;" title="Scala" alt="Scala" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img width="48" style="margin-left: 10px;" title="C" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img width="48" style="margin-left: 10px;" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
 </div>
 
 ### 📚 Frameworks:
 <div id="frameworks_libraries">
     <img width="48" style="margin-left: 10px;" title="Spring" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Spring" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain-wordmark.svg" />
-    <img width="48" style="margin-left: 10px;" title="Ktor" alt="Ktor" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
 </div>
 
 ### 🗑️ Databases:
 <div id="databases">
     <img width="48" style="margin-left: 10px;" title="PostgrSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img width="48" style="margin-left: 10px;" title="MongoDB" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
 ### ⚙️ Assembly System:
