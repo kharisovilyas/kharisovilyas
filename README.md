@@ -74,24 +74,3 @@ Scala/Java Developer from Russia, St. Petersburg.
 ---
 
 ## 🥇 Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kharisovilyas&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharisovilyas&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kharisovilyas&hide_border=true&card_width=600&theme=transparent" alt="Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kharisovilyas&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
-</p>
-
----
-
-## 🔗 About My Projects:
-
-### docflow-integration
-A document workflow (EDM/СЭД) integration system focused on ingesting and processing very large XML documents efficiently. Uses a SAX parser for streaming, low-memory parsing of huge XML payloads instead of loading them fully into memory (DOM), which is critical for high-throughput document exchange between systems.
-
-[docflow-integration](https://github.com/kharisovilyas/docflow-integration)
