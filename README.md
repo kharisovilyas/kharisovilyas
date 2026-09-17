@@ -9,7 +9,7 @@
 
 ---
 
-Scala/Java Developer from Russia, St. Petersburg. ITMO students
+Scala/Java Developer from Russia, St. Petersburg. ITMO student
 
 ---
 
